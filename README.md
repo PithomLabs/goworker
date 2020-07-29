@@ -7,6 +7,8 @@ goworker is a Resque-compatible, Go-based background worker. It allows you to pu
 
 goworker workers can run alongside Ruby Resque clients so that you can keep all but your most resource-intensive jobs in Ruby.
 
+Overview at https://stackoverflow.com/questions/21748716/golang-background-processing
+
 ## Installation
 
 To install goworker, use
